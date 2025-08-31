@@ -1,0 +1,2 @@
+# nerdfont
+my nerdfont thing
